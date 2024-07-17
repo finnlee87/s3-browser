@@ -1,5 +1,5 @@
 # s3 browser
-> A browser for S3 buckets.
+> A browser for S3 view and upload files.
 
 ## Recommended IDE Setup
 
